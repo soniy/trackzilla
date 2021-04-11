@@ -3,11 +3,11 @@ package com.keysoft.trackzilla;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class TrackzillaApplicationTests {
-
-	@Test
-	void contextLoads() {
-	}
-
-}
+//@SpringBootTest
+//class TrackzillaApplicationTests {
+//
+//	@Test
+//	void contextLoads() {
+//	}
+//
+//}
